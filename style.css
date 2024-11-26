@@ -175,7 +175,9 @@ display:none;
 }
 @media screen and (max-width:500px){
 .header .header__nav{
-    display: none;
+    background: pink;
+    position: absolute;
+    top: 10.2rem;
  }
  .header .burgir__menu{
     display:block;
