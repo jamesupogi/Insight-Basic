@@ -562,6 +562,7 @@ width:70%;
 }
 .packages li{
   height:4rem;
+  list-style:disc;
 }
 
 /* REPEATABLE PATTERNS */
